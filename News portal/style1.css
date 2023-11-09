@@ -1,0 +1,74 @@
+
+
+body{
+  background-image: url(images/background.jpg);
+  width: 1400px;
+    height: 800px;
+}
+
+h1{
+  margin: 50px 0 10px 30px;
+  color: black;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cat{
+  font-family: 'Merriweather', serif;
+  color: black;
+  font-size: 18px;
+}
+
+#US {
+  margin-left: 20px;
+}
+
+#JP {
+  margin-left: 20px;
+}
+
+#CA {
+  margin-left: 20px;
+}
+
+#CN {
+  margin-left: 20px;
+}
+
+#GB {
+  margin-left: 20px;
+}
+
+#AU {
+  margin-left: 20px;
+}
+
+
+input[type=button]{
+  -webkit-border-radius: 41;
+  -moz-border-radius: 41;
+  border-radius: 41px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #20303b;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+input[type=button]:hover {
+  background: #7f94a1;
+  text-decoration: none;
+}
+/*
+.heading {
+  write code for heading of news 
+}
+
+.refurl{
+  write code for url of news 
+}
+
+.description {
+  write code for description of news 
+} */
